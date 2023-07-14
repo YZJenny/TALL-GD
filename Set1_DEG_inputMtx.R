@@ -122,7 +122,7 @@ write.table(sig.output,'/local/yanzijun/CRU/TALL_FM/res/GeneSet/met_express/GSE4
 
 
 ##############################
-### GSE66638和GSE50999
+### GSE66638(8 TALL/2 thymus)和GSE50999(43 TALL)
 ##############################
 rm(list=ls())
 library(readxl)
@@ -194,7 +194,7 @@ write.table(sig.output,'/local/yanzijun/CRU/TALL_FM/res/GeneSet/met_express/GSE6
 
 
 ##############################
-### GSE41621
+### GSE41621(17 TALL/2 Tcell)
 ##############################
 rm(list=ls())
 library(readxl)
